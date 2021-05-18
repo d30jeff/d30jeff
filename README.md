@@ -1,8 +1,6 @@
-![Meme](https://i.imgflip.com/483qth.jpg)
-
 ### Hi there, I'm [Deojeff](https://github.com/d30jeff) 👋
 
-I work mostly with the JavaScript stack.
+I work mostly with the JavaScript stack + TypeScript.
 
 Currently getting familiar with [Strapi](https://github.com/strapi/strapi).
 
