@@ -1,7 +1,7 @@
 ### Hi there, I'm [Deojeff](https://github.com/d30jeff) 👋
 
 **About me**
-- Senior Software Engineer at [Blue Vinegar](https://github.com/bluevinegar)
+- Senior Software Engineer
 - I work mostly with Node and React in TypeScript and AWS
 
 **Backend**
